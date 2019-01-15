@@ -10,3 +10,5 @@ How users can get started with the project
 Simply type in the box the name of the burger and click submit. This will add the burger into the waiting list
 
 Pichardo® 2019
+
+IMPORTANT NOTE: Couldn't fix the eat me and devour me button 
